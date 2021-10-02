@@ -1,8 +1,10 @@
 ## Foundations of Data Science
-### Praticals
-by<br/>  
-Jan Bauer    
-Maida Sabotici  
-Giuseppe Scafiti    
+This repository contains the projects that have been conducted for the Foundations of Data Science course
+at the University of Zurich during the autumn term 2020. 
+The team comprised Jan Bauer, Maida Sabotic, Giuseppe Scafiti.
 
-Although Jan Bauer pushed all code to the master branch, all team members contributed to the practicals. Jan Bauer was just responsible for the merging process.
+### 
+
+###
+
+###
